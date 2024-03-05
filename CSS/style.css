@@ -1,0 +1,16 @@
+/* 
+Elemento {Propiedad : valor}
+
+class = clase, varios usos
+
+h1 { color: purple}
+
+*/
+
+h1 { color: purple; font-family: Arial, Helvetica, sans-serif;text-align: center}
+h3 { color: purple; font-family: Arial, Helvetica, sans-serif;text-align:left}
+
+.Logo-flowers {width: 15rem;}
+.logo-flowers { align-items: center}
+
+
